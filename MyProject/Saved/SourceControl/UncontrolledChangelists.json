@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/BP_BossCharacter.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/AI_BossController.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/DB/FT8Y7KKVGDFJ16TN1G5OY7.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EH/J59238IW924OG8CGAYXAB5.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2I/Q33HUJ862LB29V44F0QDEB.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/IA_LeftClickAttack.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/imc_Attack.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/BP_Sword.uasset",
+				"C:/Users/admin/Desktop/Git/KTnG_NieRAutomata/MyProject/Content/AI_Boss/Attacked.uasset",
 				"C:/Users/admin/Desktop/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
